@@ -21,5 +21,5 @@ Código em C++ do Arduino IDE do Robô Sumo de 500 gramas
 -------------------------------------------------------
 
 - IDE:
-- 
+
 Arduino IDE
