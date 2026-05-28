@@ -17,3 +17,8 @@ Código em C++ do Arduino IDE do Robô Sumo de 500 gramas
 4 pilhas recarregáveis AA Ni-MH
 
 1 Suporte para 4 pilhas AA
+
+-------------------------------------------------------
+
+- IDE:
+Arduino IDE
