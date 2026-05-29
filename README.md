@@ -29,3 +29,21 @@ C++
 - IDE:
 
 Arduino IDE
+
+-------------------------------------------------------
+
+- Grupo
+
+Alexandre Xisto;
+
+Davi Garcias;
+
+Gabriel Herbst;
+
+Paulo Cezar.
+
+-------------------------------------------------------
+
+- Professor orientador
+
+Vitor Jurtlero
