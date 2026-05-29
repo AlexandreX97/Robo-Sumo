@@ -1,4 +1,4 @@
-Robô Sumo de 500 gramas
+Robô Sumo de 500 gramas desenvolvido para a disciplina de Projeto Interdisciplinar 2.
 
 -------------------------------------------------------
 
